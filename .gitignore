@@ -1,0 +1,56 @@
+# === Xcode ===
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata
+*.xcscmblueprint
+*.xcuserdatad
+
+# === SwiftPM ===
+.build/
+.swiftpm/xcode/package.xcworkspace/xcuserdata
+
+# === User Data ===
+*.swp
+*.swo
+*.DS_Store
+*.idea/
+*.vscode/
+
+# === Logs and OS files ===
+*.log
+*.orig
+*.lock
+*.bak
+
+# === Playground Support ===
+timeline.xctimeline
+playground.xcworkspace
+
+# === Project Files ===
+*.moved-aside
+*.xccheckout
+
+# === Fastlane & Firebase (if used) ===
+fastlane/report.xml
+fastlane/screenshots
+fastlane/test_output
+.env
+.firebase/
+
+# === CocoaPods (if used) ===
+Pods/
+Podfile.lock
+
+# === Carthage (if used) ===
+Carthage/
+Cartfile.resolved
+
+# === SwiftPM Packages (if used) ===
+Package.resolved
+
+# === Xcode Preview Thumbnails ===
+*.preview-thumbnails
+
+# === XCCloud & CloudKit (optional) ===
+*.ckdatabase
