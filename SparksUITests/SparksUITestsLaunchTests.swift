@@ -1,10 +1,3 @@
-//
-//  SparksUITestsLaunchTests.swift
-//  SparksUITests
-//
-//  Created by Marcos Dominguez on 6/5/25.
-//
-
 import XCTest
 
 final class SparksUITestsLaunchTests: XCTestCase {
