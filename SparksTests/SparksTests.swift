@@ -1,10 +1,3 @@
-//
-//  SparksTests.swift
-//  SparksTests
-//
-//  Created by Marcos Dominguez on 6/5/25.
-//
-
 import Testing
 
 struct SparksTests {
